@@ -3,7 +3,7 @@
 My solutions to Codility [lessons](https://app.codility.com/programmers/) in Python
 
 ## Lesson 1: Iterations
-* BinaryGap $\bigstar$
+* BinaryGap &#9733
 
 ## Lesson 2: Arrays
 * OddOcurrencesInArray $\bigstar$
@@ -82,7 +82,3 @@ My solutions to Codility [lessons](https://app.codility.com/programmers/) in Pyt
 ## Lesson 17: Dynamic programming
 * NumberSolitaire $\bigstar$$\bigstar$
 * MinAbsSum $\bigstar$$\bigstar$$\bigstar$
-
-```python
-
-```
