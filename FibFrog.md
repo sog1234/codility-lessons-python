@@ -29,7 +29,7 @@ def solution(A):
     k = len(fib)
     
     # now it is 0-1 Knapsack Problem
-    # let jumps[i] is the min number of jumps from -1 to leaves[i]
+    # let jumps[i] be the min number of jumps from -1 to leaves[i]
     # jump[i] = m means that it is impossible to jump to leaves[i]
     jumps = [m] * m
     jumps[0] = 0
