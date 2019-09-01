@@ -14,10 +14,10 @@ def solution(A):
         return -A[-1]*2
         
     # now A has both positive and negative
-    # min abs sum of 2 (short for min) must come from
+    # min (short for min abs sum of 2) must come from
     # one positive and one negative
     
-    # find index of last negative and first posive
+    # find index of last negative and first positive
     neg = pos = -1
     for i in range(n-1):
         if A[i] < 0 and A[i+1] >= 0:
