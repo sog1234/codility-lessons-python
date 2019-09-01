@@ -3,82 +3,82 @@
 My solutions to Codility [lessons](https://app.codility.com/programmers/) in Python
 
 ## Lesson 1: Iterations
-* BinaryGap ★
+* [BinaryGap](https://github.com/sog1234/codility-lessons-python/blob/master/BinaryGap.md) ★
 
 ## Lesson 2: Arrays
-* OddOcurrencesInArray ★
-* CyclicRotation ★
+* [OddOcurrencesInArray](https://github.com/sog1234/codility-lessons-python/blob/master/OddOcurrencesInArray.md) ★
+* [CyclicRotation](https://github.com/sog1234/codility-lessons-python/blob/master/CyclicRotation.md) ★
 
 ## Lesson 3: Time Complexity
-* FrogJmp ★
-* PermMissingElem ★
-* TapeEquilibrium ★
+* [FrogJmp](https://github.com/sog1234/codility-lessons-python/blob/master/FrogJmp.md) ★
+* [PermMissingElem](https://github.com/sog1234/codility-lessons-python/blob/master/PermMissingElem.md) ★
+* [TapeEquilibrium](https://github.com/sog1234/codility-lessons-python/blob/master/TapeEquilibrium.md) ★
 
 ## Lesson 4: Counting Elements
-* PermCheck ★
-* FrogRiverOne ★
-* MaxCounters ★★
-* MissingInteger ★★
+* [PermCheck](https://github.com/sog1234/codility-lessons-python/blob/master/PermCheck.md) ★
+* [FrogRiverOne](https://github.com/sog1234/codility-lessons-python/blob/master/FrogRiverOne.md) ★
+* [MaxCounters](https://github.com/sog1234/codility-lessons-python/blob/master/MaxCounters.md) ★★
+* [MissingInteger](https://github.com/sog1234/codility-lessons-python/blob/master/MissingInteger.md) ★★
 
 ## Lesson 5: Prefix Sums
-* PassingCars ★
-* GenomicRangeQuery ★★
-* MinAvgTwoSlice ★★
-* CountDiv ★★
+* [PassingCars](https://github.com/sog1234/codility-lessons-python/blob/master/PassingCars.md) ★
+* [GenomicRangeQuery](https://github.com/sog1234/codility-lessons-python/blob/master/GenomicRangeQuery.md) ★★
+* [MinAvgTwoSlice](https://github.com/sog1234/codility-lessons-python/blob/master/MinAvgTwoSlice.md) ★★
+* [CountDiv](https://github.com/sog1234/codility-lessons-python/blob/master/CountDiv.md) ★★
 
 ## Lesson 6: Sorting
-* MaxProductOfThree ★
-* Distinct ★
-* Triangle ★
-* NumberOfDiscIntersections ★★
+* [MaxProductOfThree](https://github.com/sog1234/codility-lessons-python/blob/master/MaxProductOfThree.md) ★
+* [Distinct](https://github.com/sog1234/codility-lessons-python/blob/master/Distinct.md) ★
+* [Triangle](https://github.com/sog1234/codility-lessons-python/blob/master/Triangle.md) ★
+* [NumberOfDiscIntersections](https://github.com/sog1234/codility-lessons-python/blob/master/NumberOfDiscIntersections.md) ★★
 
 ## Lesson 7: Stacks and Queues
-* Brackets ★
-* Fish ★
-* Nesting ★
-* StoneWall ★
+* [Brackets](https://github.com/sog1234/codility-lessons-python/blob/master/Brackets.md) ★
+* [Fish](https://github.com/sog1234/codility-lessons-python/blob/master/Fish.md) ★
+* [Nesting](https://github.com/sog1234/codility-lessons-python/blob/master/Nesting.md) ★
+* [StoneWall](https://github.com/sog1234/codility-lessons-python/blob/master/StoneWall.md) ★
 
 ## Lesson 8: Leader
-* Dominator ★
-* EquiLeader ★
+* [Dominator](https://github.com/sog1234/codility-lessons-python/blob/master/Dominator.md) ★
+* [EquiLeader](https://github.com/sog1234/codility-lessons-python/blob/master/EquiLeader.md) ★
 
 ## Lesson 9: Maximum Slice problem
-* MaxProfit ★
-* MaxSliceSum ★
-* MaxDoubleSliceSum ★★
+* [MaxProfit](https://github.com/sog1234/codility-lessons-python/blob/master/MaxProfit.md) ★
+* [MaxSliceSum](https://github.com/sog1234/codility-lessons-python/blob/master/MaxSliceSum.md) ★
+* [MaxDoubleSliceSum](https://github.com/sog1234/codility-lessons-python/blob/master/MaxDoubleSliceSum.md) ★★
 
 ## Lesson 10: Prime and comprosite numbers
-* CountFactors ★
-* MinPerimeterRectangle ★
-* Peaks ★★
-* Flags ★★
+* [CountFactors](https://github.com/sog1234/codility-lessons-python/blob/master/CountFactors.md) ★
+* [MinPerimeterRectangle](https://github.com/sog1234/codility-lessons-python/blob/master/MinPerimeterRectangle.md) ★
+* [Peaks](https://github.com/sog1234/codility-lessons-python/blob/master/Peaks.md) ★★
+* [Flags](https://github.com/sog1234/codility-lessons-python/blob/master/Flags.md) ★★
 
 ## Lesson 11: Sieve of Eratosthenes
-* CountSemiprimes ★★
-* CountNonDivisible ★★
+* [CountSemiprimes](https://github.com/sog1234/codility-lessons-python/blob/master/CountSemiprimes.md) ★★
+* [CountNonDivisible](https://github.com/sog1234/codility-lessons-python/blob/master/CountNonDivisible.md) ★★
 
 ## Lesson 12: Euclidean algorithm
-* ChocolatesByNumbers ★
-* CommonPrimeDivisors ★★
+* [ChocolatesByNumbers](https://github.com/sog1234/codility-lessons-python/blob/master/ChocolatesByNumbers.md) ★
+* [CommonPrimeDivisors](https://github.com/sog1234/codility-lessons-python/blob/master/CommonPrimeDivisors.md) ★★
 
 ## Lesson 13: Fibonacci numbers
-* Ladder ★★
-* FibFrog ★★
+* [Ladder](https://github.com/sog1234/codility-lessons-python/blob/master/Ladder.md) ★★
+* [FibFrog](https://github.com/sog1234/codility-lessons-python/blob/master/FibFrog.md) ★★
 
 ## Lesson 14: Binary search algorithm
-* MinMaxDivision ★★
-* NailingPlanks ★★
+* [MinMaxDivision](https://github.com/sog1234/codility-lessons-python/blob/master/MinMaxDivision.md) ★★
+* [NailingPlanks](https://github.com/sog1234/codility-lessons-python/blob/master/NailingPlanks.md) ★★
 
 ## Lesson 15: Caterpillar method
-* CountDistinctSlices ★
-* CountTriangles ★
-* AbsDistinct ★
-* MinAbsSumOfTwo ★★
+* [CountDistinctSlices](https://github.com/sog1234/codility-lessons-python/blob/master/CountDistinctSlices.md) ★
+* [CountTriangles](https://github.com/sog1234/codility-lessons-python/blob/master/CountTriangles.md) ★
+* [AbsDistinct](https://github.com/sog1234/codility-lessons-python/blob/master/AbsDistinct.md) ★
+* [MinAbsSumOfTwo](https://github.com/sog1234/codility-lessons-python/blob/master/MinAbsSumOfTwo.md) ★★
 
 ## Lesson 16: Greedy algorithms
-* TieRopes ★
-* MaxNonoverlappingSegments ★
+* [TieRopes](https://github.com/sog1234/codility-lessons-python/blob/master/TieRopes.md) ★
+* [MaxNonoverlappingSegments](https://github.com/sog1234/codility-lessons-python/blob/master/MaxNonoverlappingSegments.md) ★
 
 ## Lesson 17: Dynamic programming
-* NumberSolitaire ★★
+* [NumberSolitaire](https://github.com/sog1234/codility-lessons-python/blob/master/NumberSolitaire.md) ★★
 * MinAbsSum ★★★
