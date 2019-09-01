@@ -27,8 +27,10 @@ def solution(A):
         fib.append(f)
         f = fib[-1] + fib[-2]
     k = len(fib)
-
-    # jumps[i] is the min number of jumps from -1 to leaves[i]
+    
+    # now it is 0-1 Knapsack Problem
+    # let jumps[i] is the min number of jumps from -1 to leaves[i]
+    # jump[i] = m means that it is impossible to jump to leaves[i]
     jumps = [m] * m
     jumps[0] = 0
 
