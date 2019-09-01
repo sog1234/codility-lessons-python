@@ -47,7 +47,7 @@ My solutions to Codility [lessons](https://app.codility.com/programmers/) in Pyt
 * [MaxSliceSum](https://github.com/sog1234/codility-lessons-python/blob/master/MaxSliceSum.md) ★
 * [MaxDoubleSliceSum](https://github.com/sog1234/codility-lessons-python/blob/master/MaxDoubleSliceSum.md) ★★
 
-## Lesson 10: Prime and comprosite numbers
+## Lesson 10: Prime and composite numbers
 * [CountFactors](https://github.com/sog1234/codility-lessons-python/blob/master/CountFactors.md) ★
 * [MinPerimeterRectangle](https://github.com/sog1234/codility-lessons-python/blob/master/MinPerimeterRectangle.md) ★
 * [Peaks](https://github.com/sog1234/codility-lessons-python/blob/master/Peaks.md) ★★
