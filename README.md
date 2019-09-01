@@ -3,82 +3,82 @@
 My solutions to Codility [lessons](https://app.codility.com/programmers/) in Python
 
 ## Lesson 1: Iterations
-* BinaryGap &#9733
+* BinaryGap ★
 
 ## Lesson 2: Arrays
-* OddOcurrencesInArray $\bigstar$
-* CyclicRotation $\bigstar$
+* OddOcurrencesInArray ★
+* CyclicRotation ★
 
 ## Lesson 3: Time Complexity
-* FrogJmp $\bigstar$
-* PermMissingElem $\bigstar$
-* TapeEquilibrium $\bigstar$
+* FrogJmp ★
+* PermMissingElem ★
+* TapeEquilibrium ★
 
 ## Lesson 4: Counting Elements
-* PermCheck $\bigstar$
-* FrogRiverOne $\bigstar$
-* MaxCounters $\bigstar$$\bigstar$
-* MissingInteger $\bigstar$$\bigstar$
+* PermCheck ★
+* FrogRiverOne ★
+* MaxCounters ★★
+* MissingInteger ★★
 
 ## Lesson 5: Prefix Sums
-* PassingCars $\bigstar$
-* GenomicRangeQuery $\bigstar$$\bigstar$
-* MinAvgTwoSlice $\bigstar$$\bigstar$
-* CountDiv $\bigstar$$\bigstar$
+* PassingCars ★
+* GenomicRangeQuery ★★
+* MinAvgTwoSlice ★★
+* CountDiv ★★
 
 ## Lesson 6: Sorting
-* MaxProductOfThree $\bigstar$
-* Distinct $\bigstar$
-* Triangle $\bigstar$
-* NumberOfDiscIntersections $\bigstar$$\bigstar$
+* MaxProductOfThree ★
+* Distinct ★
+* Triangle ★
+* NumberOfDiscIntersections ★★
 
 ## Lesson 7: Stacks and Queues
-* Brackets $\bigstar$
-* Fish $\bigstar$
-* Nesting $\bigstar$
-* StoneWall $\bigstar$
+* Brackets ★
+* Fish ★
+* Nesting ★
+* StoneWall ★
 
 ## Lesson 8: Leader
-* Dominator $\bigstar$
-* EquiLeader $\bigstar$
+* Dominator ★
+* EquiLeader ★
 
 ## Lesson 9: Maximum Slice problem
-* MaxProfit $\bigstar$
-* MaxSliceSum $\bigstar$
-* MaxDoubleSliceSum $\bigstar$$\bigstar$
+* MaxProfit ★
+* MaxSliceSum ★
+* MaxDoubleSliceSum ★★
 
 ## Lesson 10: Prime and comprosite numbers
-* CountFactors $\bigstar$
-* MinPerimeterRectangle $\bigstar$
-* Peaks $\bigstar$$\bigstar$
-* Flags $\bigstar$$\bigstar$
+* CountFactors ★
+* MinPerimeterRectangle ★
+* Peaks ★★
+* Flags ★★
 
 ## Lesson 11: Sieve of Eratosthenes
-* CountSemiprimes $\bigstar$$\bigstar$
-* CountNonDivisible $\bigstar$$\bigstar$
+* CountSemiprimes ★★
+* CountNonDivisible ★★
 
 ## Lesson 12: Euclidean algorithm
-* ChocolatesByNumbers $\bigstar$
-* CommonPrimeDivisors $\bigstar$$\bigstar$
+* ChocolatesByNumbers ★
+* CommonPrimeDivisors ★★
 
 ## Lesson 13: Fibonacci numbers
-* Ladder $\bigstar$$\bigstar$
-* FibFrog $\bigstar$$\bigstar$
+* Ladder ★★
+* FibFrog ★★
 
 ## Lesson 14: Binary search algorithm
-* MinMaxDivision $\bigstar$$\bigstar$
-* NailingPlanks $\bigstar$$\bigstar$
+* MinMaxDivision ★★
+* NailingPlanks ★★
 
 ## Lesson 15: Caterpillar method
-* CountDistinctSlices $\bigstar$
-* CountTriangles $\bigstar$
-* AbsDistinct $\bigstar$
-* MinAbsSumOfTwo $\bigstar$$\bigstar$
+* CountDistinctSlices ★
+* CountTriangles ★
+* AbsDistinct ★
+* MinAbsSumOfTwo ★★
 
 ## Lesson 16: Greedy algorithms
-* TieRopes $\bigstar$
-* MaxNonoverlappingSegments $\bigstar$
+* TieRopes ★
+* MaxNonoverlappingSegments ★
 
 ## Lesson 17: Dynamic programming
-* NumberSolitaire $\bigstar$$\bigstar$
-* MinAbsSum $\bigstar$$\bigstar$$\bigstar$
+* NumberSolitaire ★★
+* MinAbsSum ★★★
