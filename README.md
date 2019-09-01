@@ -42,7 +42,7 @@ My solutions to Codility [lessons](https://app.codility.com/programmers/) in Pyt
 * [Dominator](https://github.com/sog1234/codility-lessons-python/blob/master/Dominator.md) ★
 * [EquiLeader](https://github.com/sog1234/codility-lessons-python/blob/master/EquiLeader.md) ★
 
-## Lesson 9: Maximum Slice problem
+## Lesson 9: Maximum slice problem
 * [MaxProfit](https://github.com/sog1234/codility-lessons-python/blob/master/MaxProfit.md) ★
 * [MaxSliceSum](https://github.com/sog1234/codility-lessons-python/blob/master/MaxSliceSum.md) ★
 * [MaxDoubleSliceSum](https://github.com/sog1234/codility-lessons-python/blob/master/MaxDoubleSliceSum.md) ★★
