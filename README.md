@@ -6,7 +6,7 @@ My solutions to Codility [lessons](https://app.codility.com/programmers/) in Pyt
 * [BinaryGap](https://github.com/sog1234/codility-lessons-python/blob/master/BinaryGap.md) ★
 
 ## Lesson 2: Arrays
-* [OddOcurrencesInArray](https://github.com/sog1234/codility-lessons-python/blob/master/OddOccurrencesInArray.md) ★
+* [OddOccurrencesInArray](https://github.com/sog1234/codility-lessons-python/blob/master/OddOccurrencesInArray.md) ★
 * [CyclicRotation](https://github.com/sog1234/codility-lessons-python/blob/master/CyclicRotation.md) ★
 
 ## Lesson 3: Time Complexity
