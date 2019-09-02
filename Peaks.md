@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
-
+Divide an array into the maximum number of same-sized blocks, each of which should contain an index P such that A[P - 1] < A[P] > A[P + 1].
 ```python
 def solution(A):
     n = len(A)

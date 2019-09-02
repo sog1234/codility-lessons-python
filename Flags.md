@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
-
+Find the maximum number of flags that can be set on mountain peaks.
 ```python
 from math import sqrt, floor
 

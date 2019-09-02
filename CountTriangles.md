@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/15-caterpillar_method/count_triangles/)
-
+Count the number of triangles that can be built from a given set of edges.
 ```python
 def solution(A):
     A.sort()

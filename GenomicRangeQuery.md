@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/)
-
+Find the minimal nucleotide from a range of sequence DNA.
 ```python
 def solution(S, P, Q):
     n = len(S)

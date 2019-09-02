@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/)
-
+Compute the number of intersections in a sequence of discs.
 ```python
 def solution(A):
     n = len(A)

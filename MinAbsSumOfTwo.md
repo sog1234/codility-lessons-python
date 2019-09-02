@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/15-caterpillar_method/min_abs_sum_of_two/)
-
+Find the minimal absolute value of a sum of two elements.
 ```python
 def solution(A):
     n = len(A)

@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/13-fibonacci_numbers/ladder/)
-
+Count the number of different ways of climbing to the top of a ladder.
 ```python
 def solution(A, B):
     # let F(n) be the number of different

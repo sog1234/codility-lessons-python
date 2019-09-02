@@ -81,4 +81,4 @@ My solutions to Codility [lessons](https://app.codility.com/programmers/) in Pyt
 
 ## Lesson 17: Dynamic programming
 * [NumberSolitaire](https://github.com/sog1234/codility-lessons-python/blob/master/NumberSolitaire.md) ★★
-* [MinAbsSum](https://github.com/sog1234/codility-lessons-python/blob/master/MinAbsSum.md)(unfinished) ★★★
+* [MinAbsSum](https://github.com/sog1234/codility-lessons-python/blob/master/MinAbsSum.md) (unfinished) ★★★

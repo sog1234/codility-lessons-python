@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/)
-
+Compute number of integers divisible by k in range [a..b].
 ```python
 def solution(A, B, K):
     # note that from A to A+K-1 only one of them is divisible by K

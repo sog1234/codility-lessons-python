@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_non_divisible/)
-
+Calculate the number of elements of an array that are not divisors of each element.
 ```python
 def solution(A):
     n = len(A)

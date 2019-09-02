@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/common_prime_divisors/)
-
+Check whether two numbers have the same prime divisors.
 ```python
 def gcd(a, b, res):
     if a == b:

@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/nailing_planks/)
-
+Count the minimum number of nails that allow a series of planks to be nailed.
 ```python
 def check(A, B, C, st, mid):
     n = len(A)

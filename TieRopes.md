@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/16-greedy_algorithms/tie_ropes/)
-
+Tie adjacent ropes to achieve the maximum number of ropes of length >= K.
 ```python
 def solution(K, A):
     n = len(A)

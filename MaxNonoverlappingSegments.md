@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/16-greedy_algorithms/max_nonoverlapping_segments/)
-
+Find a maximal set of non-overlapping segments.
 ```python
 def solution(A, B):
     n = len(A)

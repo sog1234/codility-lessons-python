@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/6-sorting/triangle/)
-
+Determine whether a triangle can be built from a given set of edges.
 ```python
 def solution(A):
     n = len(A)

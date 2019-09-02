@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/14-binary_search_algorithm/min_max_division/)
-
+Divide array A into K blocks and minimize the largest sum of any block.
 ```python
 # given a large sum
 # check if number of actual blocks is less than k

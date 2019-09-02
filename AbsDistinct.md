@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/15-caterpillar_method/abs_distinct/)
-
+Compute number of distinct absolute values of sorted array elements.
 ```python
 # assume A[start] to A[end] have the same sign including zeros
 # then count number of distinct values

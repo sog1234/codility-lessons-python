@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/)
-
+N voracious fish are moving along a river. Calculate how many fish are alive.
 ```python
 def solution(A, B):
     n = len(A)

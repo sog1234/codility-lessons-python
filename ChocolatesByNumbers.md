@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/12-euclidean_algorithm/chocolates_by_numbers/)
-
+There are N chocolates in a circle. Count the number of chocolates you will eat.
 ```python
 def gcd(a, b, res):
     if a == b:

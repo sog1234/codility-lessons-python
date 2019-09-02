@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/11-sieve_of_eratosthenes/count_semiprimes/)
-
+Count the semiprime numbers in the given range [a..b]
 ```python
 def solution(n, P, Q):
     m = len(P)

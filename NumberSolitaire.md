@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/)
-
+In a given array, find the subset of maximal sum in which the distance between consecutive elements is at most 6.
 ```python
 def solution(A):
     n = len(A)

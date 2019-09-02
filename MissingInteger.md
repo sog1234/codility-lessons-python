@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/)
-
+Find the smallest positive integer that does not occur in a given sequence.
 ```python
 def solution(A):
     n_set = {i for i in range(1, len(A)+1)}

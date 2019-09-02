@@ -1,5 +1,5 @@
 [Question](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
-
+Count factors of given number n.
 ```python
 def solution(N):
     count = 0
