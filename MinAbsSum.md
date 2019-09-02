@@ -12,8 +12,8 @@ def solution(A):
     # p[n][half]
     A = [abs(a) for a in A if a != 0]
 
-    sums = sum(A)
-    half = sums // 2
+    sumA = sum(A)
+    half = sumA // 2
 
     n = len(A)
     p = [0] * (half + 1)
@@ -25,5 +25,5 @@ def solution(A):
         for j in range(half, A[i]-1, -1):
             p[j] = max(p[j], p[j - A[i]] + A[i])
 
-    return sums - 2 * p[half]
+    return sumA - 2 * p[half]
 ```
