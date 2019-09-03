@@ -2,6 +2,8 @@
 Given array of integers, find the lowest absolute sum of elements.
 ```python
 def solution(A):
+    # time complexity: O(n^2 * max(A))
+
     if not A:
         return 0
 
@@ -9,7 +11,7 @@ def solution(A):
     # it is a 0-1 Knapsack problem
 
     # goal: find largest P <= S//2
-    # p[n][half]
+    
     A = [abs(a) for a in A if a != 0]
 
     sumA = sum(A)
@@ -17,6 +19,9 @@ def solution(A):
 
     n = len(A)
     p = [0] * (half + 1)
+    
+    # p[i][j] is the max sum that is <= j 
+    # and chosen from A[0] ... A[i] 
 
     for j in range(A[0], half+1):
         p[j] = A[0]
