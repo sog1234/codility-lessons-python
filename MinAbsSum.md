@@ -21,7 +21,7 @@ def solution(A):
     p = [0] * (half + 1)
     
     # p[i][j] is the max sum that is <= j 
-    # and chosen from A[0] ... A[i] 
+    # and is of numbers chosen from A[0] ... A[i] 
 
     for j in range(A[0], half+1):
         p[j] = A[0]
