@@ -3,6 +3,7 @@ Given array of integers, find the lowest absolute sum of elements.
 ```python
 def solution(A):
     # time complexity: O(n^2 * max(A))
+    # space complexity: O(sum(A))
 
     if not A:
         return 0
