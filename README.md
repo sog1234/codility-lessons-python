@@ -30,7 +30,7 @@ My solutions to Codility [lessons](https://app.codility.com/programmers/) in Pyt
 * [MaxProductOfThree](https://github.com/sog1234/codility-lessons-python/blob/master/MaxProductOfThree.md) ★
 * [Distinct](https://github.com/sog1234/codility-lessons-python/blob/master/Distinct.md) ★
 * [Triangle](https://github.com/sog1234/codility-lessons-python/blob/master/Triangle.md) ★
-* [NumberOfDiscIntersections](https://github.com/sog1234/codility-lessons-python/blob/master/NumberOfDiscIntersections.md) ★★★
+* [NumberOfDiscIntersections](https://github.com/sog1234/codility-lessons-python/blob/master/NumberOfDiscIntersections.md) ★★
 
 ## Lesson 7: Stacks and Queues
 * [Brackets](https://github.com/sog1234/codility-lessons-python/blob/master/Brackets.md) ★
@@ -51,7 +51,7 @@ My solutions to Codility [lessons](https://app.codility.com/programmers/) in Pyt
 * [CountFactors](https://github.com/sog1234/codility-lessons-python/blob/master/CountFactors.md) ★
 * [MinPerimeterRectangle](https://github.com/sog1234/codility-lessons-python/blob/master/MinPerimeterRectangle.md) ★
 * [Peaks](https://github.com/sog1234/codility-lessons-python/blob/master/Peaks.md) ★★
-* [Flags](https://github.com/sog1234/codility-lessons-python/blob/master/Flags.md) ★★★
+* [Flags](https://github.com/sog1234/codility-lessons-python/blob/master/Flags.md) ★★
 
 ## Lesson 11: Sieve of Eratosthenes
 * [CountSemiprimes](https://github.com/sog1234/codility-lessons-python/blob/master/CountSemiprimes.md) ★★
@@ -73,7 +73,7 @@ My solutions to Codility [lessons](https://app.codility.com/programmers/) in Pyt
 * [CountDistinctSlices](https://github.com/sog1234/codility-lessons-python/blob/master/CountDistinctSlices.md) ★
 * [CountTriangles](https://github.com/sog1234/codility-lessons-python/blob/master/CountTriangles.md) ★
 * [AbsDistinct](https://github.com/sog1234/codility-lessons-python/blob/master/AbsDistinct.md) ★
-* [MinAbsSumOfTwo](https://github.com/sog1234/codility-lessons-python/blob/master/MinAbsSumOfTwo.md) ★★★
+* [MinAbsSumOfTwo](https://github.com/sog1234/codility-lessons-python/blob/master/MinAbsSumOfTwo.md) ★★
 
 ## Lesson 16: Greedy algorithms
 * [TieRopes](https://github.com/sog1234/codility-lessons-python/blob/master/TieRopes.md) ★
