@@ -21,8 +21,7 @@ def solution(A):
     n = len(A)
     p = [0] * (half + 1)
     
-    # p[i][j] is the max sum that is <= j 
-    # and is of numbers chosen from A[0] ... A[i] 
+    # p[i][j] is the max sum chosen from A[0] ... A[i] that is <= j  
 
     for j in range(A[0], half+1):
         p[j] = A[0]
