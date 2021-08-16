@@ -2,33 +2,41 @@
 Given array of integers, find the lowest absolute sum of elements.
 ```python
 def solution(A):
-    # time complexity: O(n^2 * max(A))
+    # time complexity: O(n * max(A) ^ 2)
     # space complexity: O(sum(A))
 
-    if not A:
-        return 0
-
-    # by the hint of the official solution
-    # it is a 0-1 Knapsack problem
-
-    # goal: find largest P <= S//2
+    A = [abs(a) for a in A]
+    total = sum(A)
+    half = total // 2
     
-    A = [abs(a) for a in A if a != 0]
-
-    sumA = sum(A)
-    half = sumA // 2
-
-    n = len(A)
-    p = [0] * (half + 1)
+    # Let P (N) be set of elements in A that are assigned '+' ('-').
+    # Suppose sum(P) <= sum(N)
+    # 2 * sum(P) <= sum(P) + sum(N) = sum(A)
     
-    # p[i][j] is the max sum chosen from A[0] ... A[i] that is <= j  
+    from collections import Counter
+    count = Counter(A)
+    
+    # Let dp[i][j] be -1 if can not get j using count.keys()[0:i]
+    # and max number of count[count.keys()[i]] left to get j using count.keys()[0:i]
+    # Base case: dp[0][0] = 1
+    # Optimality relation:
+    # If dp[i-1][j] >= 0, it means can use count.keys()[0:i-1] to get j, thus, we do not need to use count[count.keys()[i]]
+    # and the number of count[count.keys()[i]] left is count[count.keys()[i]]. Thus, dp[i][j] = count[count.keys()[i]].
+    # If dp[i-1][j] = -1, it means cannot use count.keys()[0:i-1] to get j. 
+    # If dp[i][j-a] > 0, it means can use count.keys()[0:i] to get (j - a) and there are dp[i][j-a] number of a left.
+    # Thus, dp[i][j] = dp[i][j-a] - 1
+    dp = [0] + [-1] * (half)
 
-    for j in range(A[0], half+1):
-        p[j] = A[0]
+    for a, c in count.items():
+        for j in range(half + 1):
+            if dp[j] >= 0:
+                dp[j] = c
+            elif j >= a and dp[j-a] > 0:
+                dp[j] = dp[j-a] - 1
 
-    for i in range(1, n):
-        for j in range(half, A[i]-1, -1):
-            p[j] = max(p[j], p[j - A[i]] + A[i])
-
-    return sumA - 2 * p[half]
+    for j in range(half, -1, -1):
+        if dp[j] >= 0:
+            return total - 2 * j
+    # only one element in A
+    return A[0]
 ```
